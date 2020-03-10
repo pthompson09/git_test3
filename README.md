@@ -1,0 +1,1 @@
+This is one of Patrick's first git projects!
